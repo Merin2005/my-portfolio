@@ -1,0 +1,1 @@
+Put profile.jpg, project1.jpg, project2.jpg, project3.jpg in this folder.
